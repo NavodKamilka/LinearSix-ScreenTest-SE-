@@ -1,0 +1,4 @@
+//To run this one 
+// 1)set service-account-key.json file inside 02 folder
+// 2) npm install
+// 3)node calender.js
